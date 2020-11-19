@@ -62,6 +62,7 @@
 23. Fedorov Anton, *"Pub seat reservation service"* [datowllol/PubSeatReservationService](https://github.com/datowllol/PubSeatReservationService)
 24. Tsybin Maksym *"Airport"* [MakTsy/Airport](https://github.com/MakTsy/Airport)
 25. Yusupova Rita, *"Cinema booking system"* [myfirstmolly/cinema-booking](https://github.com/myfirstmolly/cinema-booking)
+26. Naida Bogdan, *"Сonfectionery"* [bogdan-nd/Confectionery](https://github.com/bogdan-nd/Confectionery)
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
